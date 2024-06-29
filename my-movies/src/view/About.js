@@ -1,1 +1,8 @@
-export const About = () => <h1>Página Sobre</h1>
+import { MoviesContainer } from "../style/MoviesContainer";
+import { Subtitle } from "../style/Subtitle";
+
+export const About = () => (
+  <MoviesContainer>
+    <Subtitle>Página Sobre</Subtitle>
+  </MoviesContainer>
+);

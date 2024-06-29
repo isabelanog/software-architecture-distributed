@@ -10,4 +10,7 @@ export const MainMenuContainer = styled.nav`
       margin-right: 10px;
     }
   }
+  border: 1px solid black;
+  font-family: "Courier New", monospace;
+  background-color: #FFF0F5;
 `;

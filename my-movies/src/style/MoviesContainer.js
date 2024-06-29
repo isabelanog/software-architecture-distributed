@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const MoviesContainer = styled.section`
     padding: 15px;
-    background: #cecece;
-    border: 1px solid black;
-    border-radius: 10px;
+    background: #E6E6FA;
+    font-family: "Courier New", monospace;
+    line-height: 1.5;
 `;

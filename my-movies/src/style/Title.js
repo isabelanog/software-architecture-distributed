@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
-export const HeaderContainer = styled.header`
+export const Title = styled.h1`
   text-align: center;
   padding: 7px 0;
-  background-color: #FFE4E1;
   font-family: "Courier New", monospace;
+    font-size: 25px;
 `;
